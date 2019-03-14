@@ -33,3 +33,4 @@ for li in li_elem:
     del schedule_1[:]
     select.click()
 
+driver.quit()
